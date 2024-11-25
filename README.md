@@ -14,10 +14,11 @@ I started to learn C++ when i watched the Manual do Mundo's Arduino tutorial and
 - Rust
 - Java
 - Python
+
 **Tools:**
 - NodeJS (npm)
 - MariaDB SQL
-- Bash/ZSH Shell
+- Git
 - OSINT tools
 - Android Studio
 - Xcode
