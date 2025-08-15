@@ -1,4 +1,4 @@
-## Amber De Moro
+## Winter De Moro
 ### About me:
 Hello, im Winter De Moro, im a brazilian nonbinary (They/She) developer who codes since i was 9 years old.
 My interests with technology started when i swapped an old HDD with Windows XP from a an HDD with Windows 7 when i was 6.
